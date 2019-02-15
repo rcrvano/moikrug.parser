@@ -1,0 +1,13 @@
+{
+  "name": "MoikrugParser",
+  "version": "0.0.2",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "gmail-send": "^1.2.14",
+    "needle": "^2.2.4",
+    "request": "^2.88.0"
+  }
+}
